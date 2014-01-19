@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "drrcknlsn\\Enum\\": "src/"
+      "Drrcknlsn\\Enum\\": "src/"
     }
   }
 }

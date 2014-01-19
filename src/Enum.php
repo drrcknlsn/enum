@@ -6,7 +6,7 @@
  * @license   http://opensource.org/licenses/MIT The MIT License
  * @author    Derrick Nelson <drrcknlsn@gmail.com>
  */
-namespace drrcknlsn\Enum;
+namespace Drrcknlsn\Enum;
 
 use BadMethodCallException;
 use ReflectionClass;

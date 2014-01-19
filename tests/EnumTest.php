@@ -1,5 +1,5 @@
 <?php
-use drrcknlsn\Enum\Enum;
+use Drrcknlsn\Enum\Enum;
 
 class EnumTest extends \PHPUnit_Framework_TestCase
 {

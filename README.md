@@ -23,7 +23,7 @@ The only requirement is PHP 5.4 or higher.
 Declaring an enumeration is done by extending the base class and providing your list of enumerators as `private static` properties:
 
 ```php
-use drrcknlsn\Enum\Enum;
+use Drrcknlsn\Enum\Enum;
 
 require 'vendor/autoload.php';
 
