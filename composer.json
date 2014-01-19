@@ -1,0 +1,20 @@
+{
+  "name": "drrcknlsn/enum",
+  "type": "library",
+  "description": "An enumerations implementation for PHP",
+  "keywords": ["enum"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [{
+    "name": "Derrick Nelson",
+    "email": "drrcknlsn@gmail.com"
+  }],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "drrcknlsn\\Enum\\": "src/"
+    }
+  }
+}
